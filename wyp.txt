@@ -1,3 +1,5 @@
 I am in Hong Kong now.
 I will go to mainland.
-This is the newbranch
+This is the newbranch.
+I can modify this file on my computer.
+Add a line
